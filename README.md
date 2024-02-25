@@ -13,6 +13,11 @@
   <a href="https://twitter.com/ZaidZitawi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
 </p>
 
+<h2 align="center">Profile Visitors</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ZaidZitawi/count.svg?"  />
+</div>
+
 <h2 align="center">💻 My Tech Stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -41,3 +46,4 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ZaidZitawi&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
+
