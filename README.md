@@ -11,7 +11,9 @@
   <a href="https://www.instagram.com/zaid_zitawi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/zaid-zitawi-200713274" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/ZaidZitawi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+  <a href="mailto:zaidzitawi879@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
+
 
 <h2 align="center">Profile Visitors</h2>
 <div align="center">
