@@ -44,8 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidZitawi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<h3 align="center">🔝 Top Contributed Repos:</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ZaidZitawi&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
 
