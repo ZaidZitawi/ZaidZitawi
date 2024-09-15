@@ -39,9 +39,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
+
+
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidZitawi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaidZitawi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidZitawi&theme=onedark&hide_border=false">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidZitawi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
