@@ -1,9 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">
   <strong>Hi, my name is Zaid Zitawi 👋</strong><br>
-  I am a 4th-year computer science student at Birzeit University.<br>
-  A promising millionaire with a passion for technology and innovation. 🌟<br><br>
-</p>
+  computer science graduate from Birzeit University.<br>
 
 <h2 align="center">🌐 Connect with Me:</h2>
 <p align="center">
